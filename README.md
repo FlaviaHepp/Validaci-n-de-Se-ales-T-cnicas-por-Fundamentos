@@ -63,9 +63,9 @@ El análisis asume la existencia de las siguientes tablas:
 
 - Medir rendimiento a +3, +5 o +10 días post-evento
 - Comparar contra casos con RSI bajo antes de ganancias
-
+- Agrupar por sector o país
+- Incorporar volatilidad (kurtosis / skewness) pre-evento
+  
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
-Agrupar por sector o país
 
-Incorporar volatilidad (kurtosis / skewness) pre-evento
